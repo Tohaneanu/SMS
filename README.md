@@ -16,3 +16,7 @@ A minimalist project with some features like:
 ##Some images:
 
 ![](/src/main/resources/static/index.png)
+
+![](/src/main/resources/static/NewStudent.png)
+
+![](/src/main/resources/static/UpdateStudent.png)
