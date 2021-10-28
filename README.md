@@ -4,8 +4,9 @@
 ## Student Management System
 
 A minimalist project with some features like: 
-  -Add students;
-  -Update students;
+
+  -Add students.
+  -Update students.
   -Delete students.
 
 
